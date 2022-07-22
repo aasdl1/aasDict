@@ -1,0 +1,75 @@
+please input the dictionary (eg. aas,我
+bbd,你):
+---共读入179个Item---
+please input the key word:
+abr
+search failed
+
+search time:0.0173 ms
+please input the key word:
+adrenopause
+adrenopause : [医] 肾上腺机能停滞
+search time:0.0311 ms
+please input the key word:
+adrenotrophin
+adrenotrophin : "促皮质素
+search time:0.0535 ms
+please input the key word:
+adsorbency
+adsorbency : 吸附性
+search time:0.0489 ms
+please input the key word:
+adsorbing
+adsorbing : "[机] 吸附的
+search time:0.0308 ms
+please input the key word:
+adsorption
+adsorption : n. 吸附\n[化] 吸附
+search time:0.0631 ms
+please input the key word:
+cat
+search failed
+
+search time:0.0151 ms
+please input the key word:
+
+
+please input the dictionary (eg. aas,我
+bbd,你):
+---共读入770613个Item---
+please input the key word:
+abr
+search failed
+
+search time:0.0435 ms
+please input the key word:
+adsorption
+adsorption : n. 吸附\n[化] 吸附
+search time:0.0598 ms
+please input the key word:
+cat
+cat : "n. 猫
+search time:0.0255 ms
+please input the key word:
+a
+a : "第一个字母 A; 一个; 第一的\r\nart. [计] 累加器
+search time:0.0318 ms
+please input the key word:
+b
+search failed
+
+search time:0.0181 ms
+please input the key word:
+c
+search failed
+
+search time:0.0308 ms
+please input the key word:
+slipstreaming
+slipstreaming : (slipstream 的现在分词) n. 冲流
+search time:0.0424 ms
+please input the key word:
+ianthinosporous
+ianthinosporous : 具蓝紫色孢子的
+search time:0.0427 ms
+please input the key word:
